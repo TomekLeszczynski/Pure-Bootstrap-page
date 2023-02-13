@@ -7,7 +7,7 @@ A simple website built with Bootstrap components only.
 * [Setup](#setup)
 
 
-##general-info 
+## general-info 
 The idea was to set a simple website with Bootstrap only. Use as much componens as possible, play a bit with display, 
 
 
