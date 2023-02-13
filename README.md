@@ -21,4 +21,5 @@ Project got high score on PageSpeed Insights for desktop displays but low for mo
 
 # Conclusions
 Bootstrap components are not fully customizable which causes umbers of issues: 
-* Depending on browser H3 headings have different font weight.
+* Depending on the browser H3 headings may have different font weight.
+* Bootstrap icons are not working don't know the reason yet).
