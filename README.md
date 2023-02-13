@@ -1,5 +1,12 @@
 # Clear-Bootstrap-page
-This is a simple website built with Bootstrap components only. 
+A simple website built with Bootstrap components only. 
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+
 No styling with CSS. No JS 
 
 The idea was to use as much components as possible and optimise display for all devices.
