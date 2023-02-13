@@ -1,6 +1,6 @@
 # Clear-Bootstrap-page
 A simple website built with Bootstrap components only. 
-![webpage screen](./img/jane cooper screen.png)
+![webpage screen](./img/jane cooper webpage.png)
 
 # General-info 
 The idea was to set a simple website with Bootstrap only. I wanted to use as much componens as possible; play a bit with displaying, layouts and different content positioning. The goal was to avoid using CSS which I achieved.
